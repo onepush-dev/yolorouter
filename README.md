@@ -2,7 +2,7 @@
 
 Yolorouter — a self-hosted, OpenAI-compatible LLM gateway with multi-provider failover, upstream key pools and a built-in multi-user admin console. Deploy on Railway with one click.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template?template=PENDING)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/1sxlrT)
 
 This repository packages the official [Yolorouter](https://github.com/yolorouter/yolorouter) image (`ghcr.io/yolorouter/yolorouter:v0.2.9`, Apache-2.0) for Railway. It is an independent community packaging, not affiliated with or endorsed by the Yolorouter project.
 
